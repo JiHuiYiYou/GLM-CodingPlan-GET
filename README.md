@@ -150,4 +150,4 @@ python app.py
 
 ## License
 
-MIT (仅供学习)。# GLM-CodingPlan-GET
+MIT (仅供学习)。

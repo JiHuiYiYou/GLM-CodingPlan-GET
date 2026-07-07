@@ -1,0 +1,20 @@
+# 用户凭证 — 千万别提交
+cookie.json
+config.json
+
+# 日志
+buyer.log
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store

@@ -1,0 +1,126 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic:
+      - generic:
+        - generic:
+          - banner [ref=e3]:
+            - generic [ref=e4]:
+              - link "ZHIPU·AI" [ref=e6] [cursor=pointer]:
+                - /url: /
+                - img "ZHIPU·AI" [ref=e7]
+              - generic [ref=e8]:
+                - button "文档" [ref=e11]
+                - generic [ref=e12]:
+                  - link "控制台" [ref=e13] [cursor=pointer]:
+                    - /url: /coding-plan/personal/overview
+                  - generic [ref=e15]:
+                    - button "avatar" [ref=e16]:
+                      - img "avatar" [ref=e17]
+                    - text:    
+          - text: 
+          - generic:  
+    - generic [ref=e400]:
+      - generic [ref=e402] [cursor=pointer]:
+        - generic [ref=e403]: 
+        - generic [ref=e404]: 订单支付
+      - generic [ref=e406]:
+        - generic [ref=e408]:
+          - generic [ref=e409]:
+            - generic [ref=e410]:
+              - generic [ref=e411]:
+                - generic [ref=e412]: 服务方式
+                - generic [ref=e414]: 
+              - generic [ref=e415]: 您授权我们为您开通自动续费功能
+            - list [ref=e417]:
+              - listitem [ref=e418] [cursor=pointer]:
+                - generic [ref=e420]: 连续包月
+                - generic [ref=e421]: ￥598/席/月
+              - listitem [ref=e422] [cursor=pointer]:
+                - generic [ref=e423]:
+                  - generic [ref=e424]: 连续包年
+                  - generic [ref=e425]: 9折
+                - generic [ref=e426]: ￥538.2/席/月
+              - listitem [ref=e427] [cursor=pointer]:
+                - generic [ref=e429]: 单次采购
+                - generic [ref=e430]: 购买1年享9折
+          - generic [ref=e431]:
+            - generic [ref=e432]: 席位数量
+            - generic [ref=e434]:
+              - spinbutton [ref=e436]: "2"
+              - generic [ref=e437]:
+                - generic [ref=e438]: 
+                - generic [ref=e439] [cursor=pointer]: 
+          - generic [ref=e440]:
+            - generic [ref=e441]:
+              - generic [ref=e442]: 余额抵扣
+              - generic [ref=e444] [cursor=pointer]: 刷新
+            - list [ref=e446]:
+              - listitem [ref=e447]:
+                - generic [ref=e449] [cursor=pointer]:
+                  - checkbox [disabled]
+                - generic [ref=e451]: 使用赠金
+                - generic [ref=e452]: 当前账户赠金 ¥0
+              - listitem [ref=e453]:
+                - generic [ref=e455] [cursor=pointer]:
+                  - checkbox [disabled]
+                - generic [ref=e457]:
+                  - generic [ref=e458]: 使用余额
+                  - generic [ref=e459]:
+                    - text: 当前账户余额 ¥0， 支持对公打款，
+                    - link "去充值" [ref=e460] [cursor=pointer]:
+                      - /url: /finance-center/finance/pay
+          - generic [ref=e461]:
+            - generic [ref=e462]: 支付方式
+            - generic [ref=e464]: 支付宝支付
+        - generic [ref=e466]:
+          - generic [ref=e468]:
+            - generic [ref=e469]:
+              - generic [ref=e470]: 团队标准版
+              - list [ref=e471]:
+                - listitem [ref=e472]:
+                  - generic [ref=e473]: 
+                  - generic [ref=e474]: 统一管理席位权限，团队用量一目了然
+                - listitem [ref=e475]:
+                  - generic [ref=e476]: 
+                  - generic [ref=e477]: 支持超额按量付费及预算控制，成本灵活可控
+                - listitem [ref=e478]:
+                  - generic [ref=e479]: 
+                  - generic [ref=e480]: 守护数据安全，捍卫企业隐私
+            - list [ref=e483]:
+              - listitem [ref=e484]:
+                - generic [ref=e485]:
+                  - text: "2"
+                  - generic [ref=e486]: 
+                  - text: 连续包年订阅价
+                - generic [ref=e487]: ￥ 14352
+              - listitem [ref=e503]:
+                - generic [ref=e504]: 团队套餐九折
+                - generic [ref=e505]: "-￥1435.2"
+              - listitem [ref=e488]:
+                - generic [ref=e489]: 实付金额
+                - generic [ref=e490]: ￥12916.8
+            - generic [ref=e506]:
+              - generic [ref=e507]: 
+              - generic [ref=e508]: 连续包年，每月可省 ¥119.6，每年可省 ¥1435.2
+            - generic [ref=e491]:
+              - button "立即购买" [ref=e492] [cursor=pointer]
+              - generic [ref=e493]:
+                - text: 支付即代表您同意
+                - link "团队套餐购买协议" [ref=e494] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/terms/subscription-agreement-team
+          - text: 
+    - generic [ref=e495]:
+      - tooltip "遇到问题了？说说看"
+      - button "Open customer service" [ref=e496] [cursor=pointer]:
+        - generic:
+          - generic:
+            - img "Agent IP"
+    - text: 
+  - generic [ref=e380]:
+    - generic [ref=e381]:
+      - generic [ref=e383]: 拖动下方拼图完成验证
+      - img "close" [ref=e385] [cursor=pointer]
+    - img [ref=e389]
+    - generic [ref=e394]:
+      - generic [ref=e396]: 安全验证
+      - img "refresh" [ref=e399] [cursor=pointer]

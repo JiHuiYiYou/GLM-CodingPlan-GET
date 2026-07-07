@@ -1,0 +1,400 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic:
+      - generic:
+        - generic:
+          - banner [ref=e3]:
+            - generic [ref=e4]:
+              - link "ZHIPU·AI" [ref=e6] [cursor=pointer]:
+                - /url: /
+                - img "ZHIPU·AI" [ref=e7]
+              - generic [ref=e8]:
+                - button "文档" [ref=e11]
+                - generic [ref=e12]:
+                  - link "控制台" [ref=e13] [cursor=pointer]:
+                    - /url: /coding-plan/personal/overview
+                  - button "登录 / 注册" [ref=e18] [cursor=pointer]:
+                    - generic [ref=e19]: 登录 / 注册
+          - text: 
+          - generic:  
+    - generic [ref=e20]:
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - generic:
+            - generic: GLM Coding Plan_
+            - generic: 用语言驱动开发，在终端、IDE 里描述你的需求，其他的交给 GLM 搞定
+            - generic:
+              - button "即刻订阅 ":
+                - generic:
+                  - text: 即刻订阅
+                  - generic: 
+          - generic [ref=e31]:
+            - generic [ref=e40]:
+              - button " 终端" [ref=e41] [cursor=pointer]:
+                - generic [ref=e43]: 
+                - text: 终端
+              - button " IDE" [ref=e44] [cursor=pointer]:
+                - generic [ref=e46]: 
+                - text: IDE
+            - generic [ref=e49]:
+              - generic [ref=e50]:
+                - button "一键安装 " [ref=e52]:
+                  - text: 一键安装
+                  - generic [ref=e53]: 
+                - generic [ref=e54]:
+                  - generic [ref=e55]: npx @z_ai/coding-helper
+                  - generic [ref=e56] [cursor=pointer]: 
+              - paragraph [ref=e57]:
+                - text: 快速将您的 GLM编码套餐加载到您喜爱的编码工具中
+                - link "安装指南" [ref=e58] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/extension/coding-tool-helper
+        - generic [ref=e59]:
+          - generic:
+            - text: 
+            - text:  
+            - generic: 
+          - heading "即刻与 GLM 一起 Coding" [level=3] [ref=e60]
+          - generic [ref=e61]:
+            - tablist [ref=e65]:
+              - tab "个人套餐" [selected] [ref=e67]
+              - tab "团队套餐" [ref=e68]:
+                - generic [ref=e71]: 团队套餐
+            - generic:
+              - tabpanel "个人套餐"
+          - generic [ref=e73]:
+            - generic [ref=e77] [cursor=pointer]: 连续包月
+            - generic [ref=e79] [cursor=pointer]:
+              - generic [ref=e80]: 连续包季
+              - generic [ref=e81]: 9折
+            - generic [active] [ref=e83] [cursor=pointer]:
+              - generic [ref=e84]: 连续包年
+              - generic [ref=e85]: 8折
+          - generic [ref=e86]:
+            - generic [ref=e439]:
+              - generic [ref=e441]: Lite
+              - list [ref=e442]:
+                - listitem [ref=e443]: 连续包年 8 折
+              - generic [ref=e444]:
+                - generic [ref=e445]: ￥39.2/月
+                - generic [ref=e446]: ￥49/月
+              - generic [ref=e447]: 下个年度续费金额：￥470.4
+              - button "特惠订阅" [ref=e449] [cursor=pointer]
+              - heading " 基础用量额度" [level=3] [ref=e450]:
+                - generic [ref=e451]: 
+                - generic [ref=e452]: 基础用量额度
+              - list [ref=e453]:
+                - listitem [ref=e454]:
+                  - generic [ref=e456]: 
+                  - generic [ref=e457]: 适合小型 Repo 轻量级迭代
+                - listitem [ref=e458]:
+                  - generic [ref=e460]: 
+                  - generic [ref=e461]: 逐步开放最新旗舰模型及功能
+                - listitem [ref=e462]:
+                  - generic [ref=e464]: 
+                  - generic [ref=e465]:
+                    - text: 支持 Claude Code 等 20+ 编程工具
+                    - generic [ref=e467] [cursor=pointer]: 
+            - generic [ref=e469]:
+              - generic [ref=e470]:
+                - generic [ref=e471]: Pro
+                - generic [ref=e472]:
+                  - generic [ref=e473]: 最受欢迎
+                  - generic [ref=e474]: 🔥
+              - list [ref=e475]:
+                - listitem [ref=e476]: 连续包年 8 折
+              - generic [ref=e477]:
+                - generic [ref=e478]: ￥119.2/月
+                - generic [ref=e479]: ￥149/月
+              - generic [ref=e480]: 下个年度续费金额：￥1430.4
+              - button "特惠订阅" [ref=e482] [cursor=pointer]
+              - heading " 5x Lite 用量额度 + Lite 全量权益" [level=3] [ref=e483]:
+                - generic [ref=e484]: 
+                - generic [ref=e485]: 5x Lite 用量额度 + Lite 全量权益
+              - list [ref=e486]:
+                - listitem [ref=e487]:
+                  - generic [ref=e489]: 
+                  - generic [ref=e490]: 适合中型 Repo 日常开发
+                - listitem [ref=e491]:
+                  - generic [ref=e493]: 
+                  - generic [ref=e494]: 优先体验最新旗舰模型及功能
+                - listitem [ref=e495]:
+                  - generic [ref=e497]: 
+                  - generic [ref=e498]: 覆盖多款精选 MCP 工具
+                - listitem [ref=e499]:
+                  - generic [ref=e501]: 
+                  - generic [ref=e502]: 更快生成速度
+            - generic [ref=e504]:
+              - generic [ref=e505]:
+                - generic [ref=e506]: Max
+                - generic [ref=e508]: 量大管饱
+              - list [ref=e509]:
+                - listitem [ref=e510]: 连续包年 8 折
+              - generic [ref=e511]:
+                - generic [ref=e512]: ￥375.2/月
+                - generic [ref=e513]: ￥469/月
+              - generic [ref=e514]: 下个年度续费金额：￥4502.4
+              - button "特惠订阅" [ref=e516] [cursor=pointer]
+              - heading " 20x Lite 用量额度 + Pro 全量权益" [level=3] [ref=e517]:
+                - generic [ref=e518]: 
+                - generic [ref=e519]: 20x Lite 用量额度 + Pro 全量权益
+              - list [ref=e520]:
+                - listitem [ref=e521]:
+                  - generic [ref=e523]: 
+                  - generic [ref=e524]: 适合高阶用户中大型 Repo 深度开发
+                - listitem [ref=e525]:
+                  - generic [ref=e527]: 
+                  - generic [ref=e528]: 首发接入最新旗舰模型及功能
+                - listitem [ref=e529]:
+                  - generic [ref=e531]: 
+                  - generic [ref=e532]: 高峰期专属资源优先保障
+          - generic [ref=e182]:
+            - generic [ref=e183]: 实名认证后方可抢购个人套餐
+            - link "前往认证 " [ref=e184] [cursor=pointer]:
+              - /url: /usercenter/settings/auth
+              - generic [ref=e185]: 前往认证
+              - generic [ref=e186]: 
+        - generic [ref=e188]:
+          - generic [ref=e189]:
+            - img [ref=e190]
+            - img "虚线" [ref=e192]
+          - generic [ref=e193]:
+            - generic [ref=e194]:
+              - heading "「邀好友，拼好模」，最高 20% 赠金，上不封顶！" [level=3] [ref=e195]
+              - generic [ref=e196]:
+                - generic [ref=e197]: 邀好友购 GLM Coding 套餐，一键邀请，躺赢赠金，全平台无限期可用！
+                - generic [ref=e198] [cursor=pointer]: 
+            - generic [ref=e199]:
+              - button "立即「拼好模」" [ref=e200] [cursor=pointer]
+              - text: 
+        - generic [ref=e202]:
+          - heading "GLM-5.2，可靠交付生产级代码" [level=3] [ref=e203]
+          - generic [ref=e205]:
+            - generic [ref=e208] [cursor=pointer]:
+              - generic [ref=e209]: Coding 能力开源 SOTA
+              - generic [ref=e210]: GLM-5.2 发布即获 LMArena 代码榜开源模型第一、全球模型第二，整体表现仅次于 Claude Fable 5
+            - generic [ref=e213] [cursor=pointer]: 1M 上下文，长任务稳定可用
+            - generic [ref=e216] [cursor=pointer]: 自主规划驱动高效迭代
+            - generic [ref=e219] [cursor=pointer]: 万级真实任务验证
+        - generic [ref=e222]:
+          - heading "全球开发者信赖，热门 IDE 推荐" [level=3] [ref=e223]
+          - generic [ref=e224]:
+            - generic [ref=e225]:
+              - img "Kilo Code" [ref=e227]
+              - generic [ref=e228]: Kilo Code
+              - generic [ref=e229]:
+                - generic: 
+                - paragraph [ref=e230]: 开发者真正关心的并非模型智商，而是能否无虑成本与限制，高效产出。GLM编码计划直击此痛点，搭配Kilo Code，可以让你彻底摆脱焦虑，专注完成实际工作。
+                - generic: 
+            - generic [ref=e231]:
+              - img "Cline" [ref=e233]
+              - generic [ref=e234]: Cline
+              - generic [ref=e235]:
+                - generic: 
+                - paragraph [ref=e236]: Cline与众多模型商合作，而GLM编码计划是其中最顺畅的集成之一。它定价亲民、配额慷慨，响应速度完美适配真实的智能体工作流。对于寻求高性价比AI编码方案的开发者而言，GLM编码计划的优势难以超越。
+                - generic: 
+            - generic [ref=e237]:
+              - img "Crush" [ref=e239]
+              - generic [ref=e240]: Crush
+              - generic [ref=e241]:
+                - generic: 
+                - paragraph [ref=e242]: GLM系列作为当今顶尖模型家族之一，开源且定价极具竞争力，彰显了团队在最高水平竞技的决心。我们曾利用GLM设计了Crush的关键部分，体验卓越，因此强烈推荐给那些认真致力于利用LLM构建产品的团队。
+                - generic: 
+            - generic [ref=e243]:
+              - img "Factory" [ref=e245]
+              - generic [ref=e246]: Factory
+              - generic [ref=e247]:
+                - generic: 
+                - paragraph [ref=e248]: GLM-5以极低成本提供前沿智能。它能在编写代码前思考系统设计，从容应对复杂重构；支持长时间运行，在多步骤工作流中保持连贯；还能生成配有专业图表、逻辑清晰的文档。这是高性价比与高性能的完美结合。
+                - generic: 
+        - generic [ref=e250]:
+          - heading "如何开始" [level=2] [ref=e251]
+          - generic [ref=e252]:
+            - link "01 订阅套餐 选择适合您的 GLM Coding Plan 套餐，包季/包年 订阅享优惠折扣 即刻订阅 " [ref=e253] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - generic [ref=e254]: "01"
+              - generic [ref=e255]:
+                - generic [ref=e256]: 订阅套餐
+                - generic [ref=e257]: 选择适合您的 GLM Coding Plan 套餐，包季/包年 订阅享优惠折扣
+              - generic [ref=e258]:
+                - text: 即刻订阅
+                - generic [ref=e259]: 
+            - link "02 安装编程软件 仅需几分钟，即可丝滑接入Claude Code、OpenClaw等20+编程工具 安装教程 " [ref=e260] [cursor=pointer]:
+              - /url: //docs.bigmodel.cn/cn/coding-plan/quick-start
+              - generic [ref=e261]: "02"
+              - generic [ref=e262]:
+                - generic [ref=e263]: 安装编程软件
+                - generic [ref=e264]: 仅需几分钟，即可丝滑接入Claude Code、OpenClaw等20+编程工具
+              - generic [ref=e265]:
+                - text: 安装教程
+                - generic [ref=e266]: 
+            - link "03 配置MCP 所有套餐均支持视觉理解、联网搜索、网页读取、开源仓库MCP 配置编程 " [ref=e267] [cursor=pointer]:
+              - /url: //docs.bigmodel.cn/cn/coding-plan/mcp/vision-mcp-server
+              - generic [ref=e268]: "03"
+              - generic [ref=e269]:
+                - generic [ref=e270]: 配置MCP
+                - generic [ref=e271]: 所有套餐均支持视觉理解、联网搜索、网页读取、开源仓库MCP
+              - generic [ref=e272]:
+                - text: 配置编程
+                - generic [ref=e273]: 
+            - link "04 开始编码 配置完成后，即可使用 GLM 开启智能开发，轻松实现自然语言编程 查看指南 " [ref=e274] [cursor=pointer]:
+              - /url: //docs.bigmodel.cn/cn/coding-plan/learning-resources/how-coding-agent-works
+              - generic [ref=e275]: "04"
+              - generic [ref=e276]:
+                - generic [ref=e277]: 开始编码
+                - generic [ref=e278]: 配置完成后，即可使用 GLM 开启智能开发，轻松实现自然语言编程
+              - generic [ref=e279]:
+                - text: 查看指南
+                - generic [ref=e280]: 
+        - generic [ref=e281]:
+          - heading "常见问题" [level=2] [ref=e282]
+          - tablist [ref=e285]:
+            - generic [ref=e286]:
+              - tab "套餐的用量额度限制是多少？ " [expanded] [ref=e287]:
+                - button "套餐的用量额度限制是多少？ " [ref=e288] [cursor=pointer]:
+                  - generic [ref=e289]:
+                    - generic [ref=e290]: 套餐的用量额度限制是多少？
+                    - generic [ref=e291]: 
+                  - text: 
+              - tabpanel "套餐的用量额度限制是多少？ " [ref=e292]:
+                - paragraph [ref=e295]:
+                  - text: GLM Coding Plan 提供 3 种订阅套餐，满足不同开发场景的需求。为了管理资源并确保所有用户的公平使用，我们执行每 5 小时和每周的使用额度限制。 您可以在
+                  - link "用量说明" [ref=e296] [cursor=pointer]:
+                    - /url: https://docs.bigmodel.cn/cn/coding-plan/overview#%E7%94%A8%E9%87%8F%E8%AF%B4%E6%98%8E
+                  - text: 查看最新套餐的用量额度说明，以选择适合您的套餐。
+            - tab "套餐所支持的模型有哪些？ " [ref=e298]:
+              - button "套餐所支持的模型有哪些？ " [ref=e299] [cursor=pointer]:
+                - generic [ref=e300]:
+                  - generic [ref=e301]: 套餐所支持的模型有哪些？
+                  - generic [ref=e302]: 
+                - text: 
+            - tab "套餐支持模型的额度消耗说明及建议 " [ref=e304]:
+              - button "套餐支持模型的额度消耗说明及建议 " [ref=e305] [cursor=pointer]:
+                - generic [ref=e306]:
+                  - generic [ref=e307]: 套餐支持模型的额度消耗说明及建议
+                  - generic [ref=e308]: 
+                - text: 
+            - tab "套餐是否能够支持在 OpenClaw 内调用？ " [ref=e310]:
+              - button "套餐是否能够支持在 OpenClaw 内调用？ " [ref=e311] [cursor=pointer]:
+                - generic [ref=e312]:
+                  - generic [ref=e313]: 套餐是否能够支持在 OpenClaw 内调用？
+                  - generic [ref=e314]: 
+                - text: 
+            - tab "套餐有多少并发，为什么有时感觉只有 1 并发？ " [ref=e316]:
+              - button "套餐有多少并发，为什么有时感觉只有 1 并发？ " [ref=e317] [cursor=pointer]:
+                - generic [ref=e318]:
+                  - generic [ref=e319]: 套餐有多少并发，为什么有时感觉只有 1 并发？
+                  - generic [ref=e320]: 
+                - text: 
+            - tab "为什么限量购买？要限制到什么时候？ " [ref=e322]:
+              - button "为什么限量购买？要限制到什么时候？ " [ref=e323] [cursor=pointer]:
+                - generic [ref=e324]:
+                  - generic [ref=e325]: 为什么限量购买？要限制到什么时候？
+                  - generic [ref=e326]: 
+                - text: 
+            - tab "为什么购买了编码套餐还报错“1113余额不足”？为什么购买了编码套餐还扣账号余额？ " [ref=e328]:
+              - button "为什么购买了编码套餐还报错“1113余额不足”？为什么购买了编码套餐还扣账号余额？ " [ref=e329] [cursor=pointer]:
+                - generic [ref=e330]:
+                  - generic [ref=e331]: 为什么购买了编码套餐还报错“1113余额不足”？为什么购买了编码套餐还扣账号余额？
+                  - generic [ref=e332]: 
+                - text: 
+            - tab "怎么查看是否扣的是编码套餐？ " [ref=e334]:
+              - button "怎么查看是否扣的是编码套餐？ " [ref=e335] [cursor=pointer]:
+                - generic [ref=e336]:
+                  - generic [ref=e337]: 怎么查看是否扣的是编码套餐？
+                  - generic [ref=e338]: 
+                - text: 
+            - tab "哪个套餐支持专属的视觉理解、联网搜索、网页读取、开源仓库 MCP 工具？ " [ref=e340]:
+              - button "哪个套餐支持专属的视觉理解、联网搜索、网页读取、开源仓库 MCP 工具？ " [ref=e341] [cursor=pointer]:
+                - generic [ref=e342]:
+                  - generic [ref=e343]: 哪个套餐支持专属的视觉理解、联网搜索、网页读取、开源仓库 MCP 工具？
+                  - generic [ref=e344]: 
+                - text: 
+            - tab "如何取消订阅自动续费？ " [ref=e346]:
+              - button "如何取消订阅自动续费？ " [ref=e347] [cursor=pointer]:
+                - generic [ref=e348]:
+                  - generic [ref=e349]: 如何取消订阅自动续费？
+                  - generic [ref=e350]: 
+                - text: 
+      - generic [ref=e352]:
+        - generic [ref=e353]: GLM Coding Plan
+        - generic [ref=e354]:
+          - generic [ref=e355]:
+            - heading "GLM Coding Plan" [level=4] [ref=e356]
+            - list [ref=e357]:
+              - listitem [ref=e358]:
+                - link "套餐概览" [ref=e359] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/overview
+              - listitem [ref=e360]:
+                - link "使用须知" [ref=e361] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/usage-notes
+              - listitem [ref=e362]:
+                - link "常见问题" [ref=e363] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/faq
+              - listitem [ref=e364]:
+                - link "最佳实践" [ref=e365] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/best-practice/prompt-engineering
+          - generic [ref=e366]:
+            - heading "接入指南" [level=4] [ref=e367]
+            - list [ref=e368]:
+              - listitem [ref=e369]:
+                - link "快速开始" [ref=e370] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/quick-start
+              - listitem [ref=e371]:
+                - link "一键安装助手" [ref=e372] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/extension/coding-tool-helper
+              - listitem [ref=e373]:
+                - link "Claude Code" [ref=e374] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/tool/claude
+              - listitem [ref=e375]:
+                - link "OpenClaw" [ref=e376] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/tool/openclaw
+              - listitem [ref=e377]:
+                - link "OpenCode" [ref=e378] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/tool/opencode
+              - listitem [ref=e379]:
+                - link "其他工具" [ref=e380] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/tool/others
+          - generic [ref=e381]:
+            - heading "调用 MCP 工具" [level=4] [ref=e382]
+            - list [ref=e383]:
+              - listitem [ref=e384]:
+                - link "视觉理解 MCP" [ref=e385] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/mcp/vision-mcp-server
+              - listitem [ref=e386]:
+                - link "联网读取 MCP" [ref=e387] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/mcp/search-mcp-server
+              - listitem [ref=e388]:
+                - link "网页读取 MCP" [ref=e389] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/mcp/reader-mcp-server
+              - listitem [ref=e390]:
+                - link "开源仓库 MCP" [ref=e391] [cursor=pointer]:
+                  - /url: https://docs.bigmodel.cn/cn/coding-plan/mcp/zread-mcp-server
+          - generic [ref=e392]:
+            - heading "用户交流圈" [level=4] [ref=e393]
+            - generic [ref=e394]:
+              - img [ref=e395]
+              - generic [ref=e396]: 飞书扫码入群
+      - text:  
+      - generic: 
+    - generic [ref=e398]:
+      - generic [ref=e399]:
+        - generic [ref=e400] [cursor=pointer]:
+          - generic [ref=e401]:
+            - tooltip "遇到问题了？说说看"
+            - img [ref=e407]
+          - generic [ref=e412]: 客服
+        - link " 咨询" [ref=e413] [cursor=pointer]:
+          - /url: /online-book/glmCodingPlan
+          - generic [ref=e414]: 
+          - generic [ref=e415]: 咨询
+      - generic [ref=e534] [cursor=pointer]: 
+    - text: 
+  - generic [ref=e418]:
+    - generic [ref=e419]:
+      - generic [ref=e421]: 拖动下方拼图完成验证
+      - img "close" [ref=e423] [cursor=pointer]
+    - img [ref=e427]
+    - generic [ref=e432]:
+      - generic [ref=e434]: 安全验证
+      - img "refresh" [ref=e437] [cursor=pointer]
+  - tooltip "连续包年享8折优惠" [ref=e535]: 连续包年享8折优惠

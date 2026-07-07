@@ -1,0 +1,10 @@
+# GLM Coding Plan 自动抢购 — 依赖
+#
+# 安装: pip install -r requirements.txt
+#
+# 浏览器: 用系统 Edge,不下载 chromium (脚本默认指向)
+#   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+# 如果路径不一样,改 buyer.py 里的 set_browser_path()
+
+DrissionPage>=4.0
+ttkbootstrap>=1.10

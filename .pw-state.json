@@ -1,0 +1,178 @@
+{
+  "cookies": [
+    {
+      "name": "sensorsdata2015jssdkchannel",
+      "value": "{\"prop\":{\"_sa_channel_landing_url\":\"\"}}",
+      "domain": ".www.bigmodel.cn",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.656257565.1777102276",
+      "domain": ".www.bigmodel.cn",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bigmodel_token_production",
+      "value": "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VyX3R5cGUiOiJQRVJTT05BTCIsInVzZXJfY2hhbm5lbCI6IldFQiIsInVzZXJfaWQiOjgyMTU2NjgsInVzZXJfa2V5IjoiNmE1N2RiZWItYjJhMi00ZDQ3LTg3YmUtODQ5YjJhY2Y3YjMzIiwiY3VzdG9tZXJfaWQiOiI4ODIxMTc3NzI3NzU2NDI3NyIsInVzZXJuYW1lIjoiYnl3YWc1MTYifQ.dkqDbGGGATziq4tBmhtWQ78ts5zL1jJeg1U1QYW3F8P0Wn5iP7dTvkfkQrenUpuZlHR5XsQArNQyjWfuyrIJZg",
+      "domain": ".www.bigmodel.cn",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sensorsdata2015jssdkcross",
+      "value": "{\"distinct_id\":\"88211777277564277\",\"first_id\":\"19dc38cc43bad-08f7c860143a27-4c657b58-921600-19dc38cc43cf84\",\"props\":{\"$latest_traffic_source_type\":\"直接流量\",\"$latest_search_keyword\":\"未取到值_直接打开\",\"$latest_referrer\":\"\",\"$latest_utm_source\":\"baidu\",\"$latest_utm_medium\":\"cpc\",\"$latest_utm_campaign\":\"maas-web-baidu\"},\"identities\":\"eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTlkYzM4Y2M0M2JhZC0wOGY3Yzg2MDE0M2EyNy00YzY1N2I1OC05MjE2MDAtMTlkYzM4Y2M0M2NmODQiLCIkaWRlbnRpdHlfbG9naW5faWQiOiI4ODIxMTc3NzI3NzU2NDI3NyJ9\",\"history_login_id\":{\"name\":\"$identity_login_id\",\"value\":\"88211777277564277\"}}",
+      "domain": ".www.bigmodel.cn",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Hm_lvt_a1b1a5545a8f11fdd72d54f10971c4ea",
+      "value": "1781426799,1783123976,1783216764,1783299916",
+      "domain": ".www.bigmodel.cn",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "HMACCOUNT",
+      "value": "1D7A9A825DD68916",
+      "domain": ".www.bigmodel.cn",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Hm_lpvt_a1b1a5545a8f11fdd72d54f10971c4ea",
+      "value": "1783303938",
+      "domain": ".www.bigmodel.cn",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_SF8X67RPF9",
+      "value": "GS2.1.s1783303937$o22$g1$t1783303939$j58$l0$h0",
+      "domain": ".www.bigmodel.cn",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssxmod_itna",
+      "value": "1-eqfOBIqRxGx0xYq7Ki7qP0QowsKnqDXDUqAQD2DIqGQGcD8x40Pogxvcie5E=oPotU=i5qDnAqDsP4xiNDAZ40iDC3ndwt7AqG=57700bYdYtD_9m5G0YokwooAGkR96N5r=M2EgIU6q5BGQCaAss=D4yBiYbe4DHxi8DBIeie4wDeeaDCeDQxirDD4DADibT4D1pDDkD0_AAU3Lm4GWDm_ADWPDYxDr_RoDRrxD0ZWmDQF3_RPkpRDDB2x5RhiU/KE0pmCfbBk__4G1ED0HeWtq_FjgAuDj//1_yIevDlIZDCKLpeMmodwboLF1LiDxBC0ijPne44jeoCqP7eKYxUGeYDxPeY60DxamwiD9nDKrePAqPK4DDawY4b9_rKDH42Zn5Vl5D2mtC7kGi1fTwFqHDuhQEHnhGSxY1GiWDx8A4IwrFTYrOKqrwiTbQ4ee34Dux9OYi4r9_osxOaADD",
+      "domain": ".www.bigmodel.cn",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssxmod_itna2",
+      "value": "1-eqfOBIqRxGx0xYq7Ki7qP0QowsKnqDXDUqAQD2DIqGQGcD8x40Pogxvcie5E=oPotU=i5qDne4DWhD7qeKhS2e03qG7CfTKDBMpqPaXYOfmqC9tG2BGif3x299XKmpgFfXA3x48lqnkWCwPqqmorCBxhz5z2WX7WkbeBG3BGhArydeDFNZgAmHzuvF9gxt4xxmPAEuPghXBuv37f_VcafKryz1rfzq0MWii3s2iv0mZkQGxhUokeFqjFG0UQR1h0WPUMdjKoxHMYFbl=7zrKH7k/UTB7nfUaU6dUqkrDFuELYASDxrE6eWhDeAiMMkX2iWrxQxdu8dkY7K2WrqkVxt5l3bl=I_D_Yeigw=reMA55hDtiY3AsGe4znw4D",
+      "domain": ".www.bigmodel.cn",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sensorsdata2015jssdksession",
+      "value": "{\"session_id\":\"19f34f54607523070b1d4988be794c657b5892160019f34f54608f98\",\"first_session_time\":1783299917317,\"latest_session_time\":1783304588225}",
+      "domain": ".www.bigmodel.cn",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.bigmodel.cn",
+      "localStorage": [
+        {
+          "name": "Organizations",
+          "value": "[{\"organizationName\":\"默认机构(564277)\",\"organizationId\":\"org-4F8674462Deb4CEE9020274342814179\",\"role\":\"owner\",\"isDefault\":true,\"projects\":[{\"projectName\":\"默认项目\",\"projectId\":\"proj_e1d02ed5CB8E4E1b86f0F54CFf11ab94\",\"organizationId\":\"org-4F8674462Deb4CEE9020274342814179\",\"role\":\"owner\",\"status\":\"active\",\"isDefault\":true,\"projectType\":1,\"id\":\"proj_e1d02ed5CB8E4E1b86f0F54CFf11ab94\"}],\"id\":\"org-4F8674462Deb4CEE9020274342814179\"}]"
+        },
+        {
+          "name": "YSF-25340C97890B2B2927C1226F3C512AFC-UID",
+          "value": "zpd9nlakwmjl8dwoxm52"
+        },
+        {
+          "name": "Hm_lvt_a1b1a5545a8f11fdd72d54f10971c4ea",
+          "value": "1814839938318|1781426799,1783123976,1783216764,1783299916"
+        },
+        {
+          "name": "DA-LANDPAGE-TITLE",
+          "value": "智谱AI开放平台"
+        },
+        {
+          "name": "YSF-25340C97890B2B2927C1226F3C512AFC-UUID",
+          "value": "31npomalnm7lnsvdkrcs"
+        },
+        {
+          "name": "user",
+          "value": "{\"id\":8215668,\"customerNumber\":\"88211777277564277\",\"customerName\":\"bywag516\",\"nickName\":null,\"email\":null,\"phoneNumber\":\"159****8712\",\"avatar\":null,\"userType\":\"PERSONAL\",\"openId\":null,\"unionId\":null,\"wechatNickName\":null,\"phoneOpenId\":null,\"channel\":\"WEB\",\"balance\":null,\"availableBalance\":null,\"rechargeAmount\":null,\"giveAmount\":null,\"acType\":\"PERSONAL_AC\",\"acState\":\"AC_SUCCESS\",\"acSubmitType\":\"ON_EXAMINE_PERSONAL_AC\",\"whetherChanges\":false,\"createTime\":\"2026-04-27 16:12:44\",\"lastRequestTime\":null,\"source\":\"默认\",\"countryCode\":\"86\",\"remittanceAccount\":null,\"allLabelValue\":null,\"enableStatus\":\"ENABLE\",\"securityEncryptFlag\":\"N\",\"isNewUser\":false,\"isUniversity\":false,\"enableTwoFa\":false,\"organizations\":[{\"organizationName\":\"默认机构(564277)\",\"organizationId\":\"org-4F8674462Deb4CEE9020274342814179\",\"role\":\"owner\",\"isDefault\":true,\"projects\":[{\"projectName\":\"默认项目\",\"projectId\":\"proj_e1d02ed5CB8E4E1b86f0F54CFf11ab94\",\"organizationId\":\"org-4F8674462Deb4CEE9020274342814179\",\"role\":\"owner\",\"status\":\"active\",\"isDefault\":true,\"projectType\":1,\"id\":\"proj_e1d02ed5CB8E4E1b86f0F54CFf11ab94\"}],\"id\":\"org-4F8674462Deb4CEE9020274342814179\"}],\"watermarkCode\":0,\"betaTester\":false,\"roles\":[\"PERSONAL\",\"owner\",\"N\"],\"permissions\":[],\"isOwner\":true,\"isEntPlanProj\":false,\"isDefaultOrg\":true}"
+        },
+        {
+          "name": "Bigmodel-Organization",
+          "value": "org-4F8674462Deb4CEE9020274342814179"
+        },
+        {
+          "name": "DA-LANDPAGE-REFERRER",
+          "value": ""
+        },
+        {
+          "name": "sawebjssdkchannel",
+          "value": "{\"latest_event_initial_time\":1783216764280,\"eventList\":[\"$WebPageLeave\",\"WebAction\",\"$WebPageLoad\"]}"
+        },
+        {
+          "name": "Bigmodel-Project",
+          "value": "proj_e1d02ed5CB8E4E1b86f0F54CFf11ab94"
+        },
+        {
+          "name": "loglevel",
+          "value": "SILENT"
+        },
+        {
+          "name": "inviteDialogLastShowTime",
+          "value": "1783303940085"
+        },
+        {
+          "name": "YSFDVC-zpd9nlakwmjl8dwoxm52",
+          "value": "1"
+        },
+        {
+          "name": "__00b204e9800998__",
+          "value": "1517790823a19f300071a7||1798768763308"
+        },
+        {
+          "name": "DA-LANDPAGE",
+          "value": "https%3A%2F%2Fwww.bigmodel.cn%2Fglm-coding%3Fplantype%3Dteam"
+        },
+        {
+          "name": "YSF-25340C97890B2B2927C1226F3C512AFC-LAST",
+          "value": ""
+        },
+        {
+          "name": "sawebjssdkpageleave-341388922",
+          "value": "{\"identities\":{\"$identity_cookie_id\":\"19dc38cc43bad-08f7c860143a27-4c657b58-921600-19dc38cc43cf84\",\"$identity_login_id\":\"88211777277564277\",\"$identity_anonymous_id\":\"19dc38cc43bad-08f7c860143a27-4c657b58-921600-19dc38cc43cf84\"},\"distinct_id\":\"88211777277564277\",\"lib\":{\"$lib\":\"js\",\"$lib_method\":\"code\",\"$lib_version\":\"1.26.16\"},\"properties\":{\"$timezone_offset\":-480,\"$screen_height\":720,\"$screen_width\":1280,\"$viewport_height\":596,\"$viewport_width\":204,\"$lib\":\"js\",\"$lib_version\":\"1.26.16\",\"$latest_traffic_source_type\":\"直接流量\",\"$latest_search_keyword\":\"未取到值_直接打开\",\"$latest_referrer\":\"\",\"$latest_utm_source\":\"baidu\",\"$latest_utm_medium\":\"cpc\",\"$latest_utm_campaign\":\"maas-web-baidu\",\"$is_channel_callback_event\":false,\"platform_name\":\"TOB_Web\",\"user_type\":\"老用户\",\"$title\":\"智谱AI开放平台\",\"$url\":\"https://www.bigmodel.cn/glm-coding?plantype=team\",\"$url_path\":\"/glm-coding\",\"$referrer_host\":\"\",\"$referrer\":\"\",\"$viewport_position\":879,\"event_duration\":5.002,\"$is_first_day\":false,\"$event_session_id\":\"19f34f54607523070b1d4988be794c657b5892160019f34f54608f98\",\"$ad_landing_page_url\":\"\"},\"login_id\":\"88211777277564277\",\"anonymous_id\":\"19dc38cc43bad-08f7c860143a27-4c657b58-921600-19dc38cc43cf84\",\"type\":\"track\",\"event\":\"$WebPageLeave\",\"time\":1783304588224,\"_track_id\":667368241,\"_flush_time\":1783304588241,\"heartbeat_interval_time\":5000}"
+        }
+      ]
+    }
+  ]
+}

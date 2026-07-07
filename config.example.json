@@ -1,0 +1,8 @@
+{
+  "cookie_path": "cookie.json",
+  "plantypes": ["personal", "team"],
+  "tiers_personal": ["Pro"],
+  "tiers_team": ["标准版"],
+  "billing_term": "monthly",
+  "schedule_enabled": true
+}
