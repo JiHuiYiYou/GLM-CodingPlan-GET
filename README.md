@@ -150,4 +150,4 @@ python app.py
 
 ## License
 
-MIT (仅供学习)。
+[MIT](LICENSE) (仅供学习)。
